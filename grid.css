@@ -1,0 +1,19 @@
+.gridItem {
+    min-width: 20px;
+    border: 2px black solid;
+    background-color: lightblue;
+    text-align: center;
+    justify-content: center;
+    min-height: 100px;
+}
+
+
+.container {
+    background-color: yellowgreen;
+}
+
+
+
+.gridContainer {
+    display: grid;
+}

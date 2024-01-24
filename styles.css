@@ -1,0 +1,39 @@
+/* Color Values */
+.color-example {
+    color: white;
+    background-color: black;
+}
+
+  /* Background Colors and Images */
+  .background-example {
+    background-color: lightseagreen;
+  }
+
+  /* Background Positioning and Repeating */
+  .background-position-example {
+    background-image: url("https://www.shutterstock.com/image-vector/enchanting-anime-landscape-mistcovered-mountain-600nw-2301778699.jpg");
+    background-position: top center;
+    background-repeat: no-repeat;
+    /* background-size: auto; */
+  }
+
+  /* Opacity and Transparency */
+  .opacity-example {
+    display: block;
+    background-color: rgba(255,0,0,0.6);
+  }
+
+  /* Adding Images to Web Pages */
+  .image-example {
+    display: block;
+    margin: 50px auto;
+  }
+
+  /* Image Sizing and Alignment */
+  .image-sizing-example {
+    width: 200px;
+    height: auto;
+    display:block;
+    margin: 0 auto;
+  }
+  
